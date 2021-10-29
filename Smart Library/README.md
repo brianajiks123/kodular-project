@@ -7,7 +7,7 @@ Smart Library is a simple library application for user education. This applicati
 Installing this application is very easy. Users simply download and install it on their mobile device.
 
 ## License
-Copyright (c) [2021] [Brian Aji P]
+Copyright (c) Brian Aji P
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this Application and associated documentation files (the "Application"), to deal
