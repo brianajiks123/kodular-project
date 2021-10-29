@@ -1,4 +1,4 @@
-# Kodular-project
+# Kodular Project
 
 ## Installation
 Installing this application is very easy. Users simply download and install it on their mobile device.
